@@ -1,4 +1,4 @@
-### Created the simple Virtual Card using `HTML`, `CSS` and `JavaScript`
+### Created the simple Virtual Card using `HTML` and `CSS`
 
 #### Here what I have created :
 
